@@ -22,10 +22,6 @@ scripts/                          # Analysis pipeline
   07_openalex_pivot.py            # Phase 5: OpenAlex-only pivot experiment (SI)
   run_all_v2.sh                   # Master pipeline runner
 
-draft/                            # Thesis manuscript
-  main.tex                        # LaTeX source
-  references.bib                  # Bibliography
-  images/                         # Figures
 ```
 
 ## Data Sources
